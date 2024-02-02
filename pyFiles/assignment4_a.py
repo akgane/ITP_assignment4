@@ -62,4 +62,5 @@ def check_inclusion(s1, s2):
             return True
     return False
 
+
 print(check_inclusion("ab", "eidboaoo"))
